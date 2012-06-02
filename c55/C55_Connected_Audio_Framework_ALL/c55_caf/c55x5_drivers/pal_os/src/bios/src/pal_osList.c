@@ -36,7 +36,7 @@
  */
 
 #include <pal_osList.h>
-#include <pal_osprotect.h>
+#include <pal_osProtect.h>
 
 /**************************************************
  * Protected functions

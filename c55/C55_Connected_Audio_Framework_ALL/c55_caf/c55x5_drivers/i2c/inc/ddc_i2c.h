@@ -35,7 +35,7 @@
 #include <pal_osSem.h>
 #include <pal_osProtect.h>
 #include <pal_ostime.h>
-#include <pal_oswait.h>
+#include <pal_osWait.h>
 #include <std.h>
 #include <sem.h>
 //#include <stdlib.h>
